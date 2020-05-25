@@ -40,3 +40,4 @@ yarn run build
 - [Typescript](https://github.com/microsoft/TypeScript), Version 3.9.3
 - [React](https://github.com/facebook/react)
 - [jsx-slack](https://github.com/speee/jsx-slack)
+- [@common-web/ts-config](https://github.com/Jareechang/common-web/tree/master/packages/ts-config)
