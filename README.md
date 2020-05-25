@@ -14,7 +14,7 @@ Creating Slack message using [Block Kit](https://api.slack.com/block-kit) using 
 
 #### 1. Setup enviroment
 
-| Environment varibale        | Description           | Required ?  |
+| Environment variable        | Description           | Required ?  |
 | ------------- |:-------------:| -----:|
 | SLACK_MS_WEBHOOK_ENDPOINT      | Your slack webhook endpoint | Yes |
 | SLACK_MS_WEBHOOK_CHANNEL      | Your slack channel | Yes |
