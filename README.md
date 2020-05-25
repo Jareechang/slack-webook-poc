@@ -6,7 +6,7 @@ Creating Slack message using [Block Kit](https://api.slack.com/block-kit) using 
 
 ## Sample Slack message 
 
-![Sample Message](./images/slack-webhook-screenshot.png, "Sample Message")
+![Sample Message](./images/slack-webhook-screenshot.png "Sample Message")
 
 
 ## Getting started
