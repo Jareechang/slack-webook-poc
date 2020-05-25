@@ -1,0 +1,19 @@
+{
+  "extends": "./node_modules/@common-web/ts-config/tsconfig.base.json",
+  "compilerOptions": {
+    "jsx": "react",
+    "jsxFactory": "JSXSlack.h",
+    "outDir": "lib",
+    "noImplicitAny": false,
+    "moduleResolution": "node"
+
+  },
+  "include": [
+    "./src/**/*.ts",
+    "./src/**/*.tsx",
+    "./global.d.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

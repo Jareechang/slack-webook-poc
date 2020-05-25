@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@common-web/ts-config": "^1.0.0",
+    "@speee-js/jsx-slack": "^2.2.0",
+    "@types/node": "^14.0.5",
+    "axios": "^0.19.2",
+    "typescript": "^3.9.3"
+  },
+  "scripts": {
+    "build": "tsc -p .",
+    "build-watch": "tsc  -w",
+    "send-message": "yarn run build && node lib/index.js"
+  }
+}
