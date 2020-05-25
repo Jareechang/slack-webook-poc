@@ -1,6 +1,13 @@
-# Slack webhook proof of concept
+# Slack Message Block Kit w/ JSX Proof-Of-Concept
 
 Testing out slack webhook using the [jsx-slack](https://github.com/speee/jsx-slack) package.
+Creating Slack message using [Block Kit](https://api.slack.com/block-kit) using jsx.
+
+
+## Sample Slack message 
+
+![Sample Message](./images/slack-webhook-screenshot.png, "Sample Message")
+
 
 ## Getting started
 
