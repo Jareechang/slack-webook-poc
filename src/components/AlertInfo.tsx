@@ -56,7 +56,6 @@ export const AlertInfo = (
         type,
         image
     } = props;
-
     return (
         <Fragment>
             <Section>

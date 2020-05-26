@@ -1,4 +1,3 @@
-
 export function getEmoji(type: string): string {
     return ({
         'warn': ':warning:',
