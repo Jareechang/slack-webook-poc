@@ -33,7 +33,6 @@ class Program implements t.Program {
             blocks
         });
     }
-
 }
 
 const program = new Program();
